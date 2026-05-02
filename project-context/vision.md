@@ -1,6 +1,6 @@
 # Vision
 
-Build a ride booking platform with:
+Build a ride booking system with real-time tracking.
 
 - real-time driver tracking
 - microservices architecture
